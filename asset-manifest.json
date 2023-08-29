@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/songcengiz/react-user-rating/static/css/main.94a77d4d.css",
+    "main.js": "/songcengiz/react-user-rating/static/js/main.cbb56665.js",
+    "index.html": "/songcengiz/react-user-rating/index.html",
+    "main.94a77d4d.css.map": "/songcengiz/react-user-rating/static/css/main.94a77d4d.css.map",
+    "main.cbb56665.js.map": "/songcengiz/react-user-rating/static/js/main.cbb56665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a77d4d.css",
+    "static/js/main.cbb56665.js"
+  ]
+}
